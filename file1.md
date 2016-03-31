@@ -1,1 +1,2 @@
-# curso_puppet \n test nuevo file
+# curso_puppet test nuevo file
+# nueva linea
